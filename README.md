@@ -215,8 +215,7 @@ Este projeto implementa um sistema completo de auditoria de segurança WiFi usan
 ## 🌐 Publicação no Hackster.io
 
 **Link da Publicação**: 
-<!-- Inserir aqui o link da publicação no Hackster.io -->
-*[ESPAÇO RESERVADO PARA LINK DO HACKSTER.IO]*
+[ESP32 WiFi Security Audit Demo](https://www.hackster.io/brunofelixp/esp32-wifi-security-audit-demo-c0d4df)
 
 
 ## 🎓 Objetivos Educacionais
